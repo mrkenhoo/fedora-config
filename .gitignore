@@ -1,2 +1,4 @@
 kernels/linux-tkg
 packages/*.rpm
+packages/*.AppImage
+packages/proton-ge-custom-updater
